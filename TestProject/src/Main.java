@@ -6,7 +6,7 @@ public class Main {
 		
 
 		System.out.println("Added this new pfgvsdfgdfdgdfgdfgrigbhgbfgnt");
-		System.out.println("Added this new print too");
+		System.out.println("Added this newyxcyxc print too");
 		System.out.println("Added sddddddddddfdfddfsdfthcxvcxvis newdsfsdfdsf print too");
 	}
 }
